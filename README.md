@@ -15,4 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-###### :point_right: Welcome to my profile. Please, feel free to access my repositories and other links.
+##### 👉: Welcome to my profile. Please, feel free to access my repositories and other links.
+
+###### 💻 Social networks
+[![Build Status](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiovi98/)
+[![Build Status](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiovi98/)
