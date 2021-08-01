@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-- :point_right: Welcome to my profile. Please, feel free to access my repositories and other links.
+:point_right: Welcome to my profile. Please, feel free to access my repositories and other links.
