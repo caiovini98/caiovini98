@@ -1,4 +1,4 @@
-### Hi there 👋:smile:
+# Hi there 👋:smile:
 
 <!--
 **caiovini98/caiovini98** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,13 +16,13 @@ Here are some ideas to get you started:
 
 -->
 
-##### 👉 Welcome to my profile. Please, feel free to access my repositories and other links.
+## 👉 Welcome to my profile. Please, feel free to access my repositories and other links.
 
-###### 💻 Social networks
+### 💻 Social networks
 [![Build Status](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/caiovi98/)
 [![Build Status](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/caiovi98/)
 
-###### 👩‍💻 Skills
+### 👩‍💻 Skills
 ![Build Status](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![Build Status](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 ![Build Status](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 ![Build Status](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Build Status](https://img.shields.io/badge/Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-###### 🚀 Frameworks
+### 🚀 Frameworks
 ![Build Status](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 ![Build Status](https://img.shields.io/badge/Sass-CC6699?style=for-the-badge&logo=sass&logoColor=white)
 ![Build Status](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
